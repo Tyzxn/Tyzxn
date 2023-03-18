@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TSWIZZ</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+	<header>
+		<h1>TSWIZZ</h1>
+		<nav>
+			<ul>
+				<li><a href="https://www.facebook.com/" target="_blank"><img src="icons/facebook.png" alt="Facebook"></a></li>
+				<li><a href="https://www.instagram.com/" target="_blank"><img src="icons/instagram.png" alt="Instagram"></a></li>
+				<li><a href="https://twitter.com/" target="_blank"><img src="icons/twitter.png" alt="Twitter"></a></li>
+				<li><a href="https://www.linkedin.com/" target="_blank"><img src="icons/linkedin.png" alt="LinkedIn"></a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<p>Welcome to TSWIZZ, your one-stop-shop for all your social media needs.</p>
+	</main>
+	<footer>
+		<p>&copy; 2023 TSWIZZ. All rights reserved.</p>
+	</footer>
+</body>
+</html>
